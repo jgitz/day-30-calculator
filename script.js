@@ -11,4 +11,3 @@ function calculate_display() {
     result.value = eval(result.value) // eval() is a javascript method which automatically calculate mathematical expression provided that the expression is valid
 }
 
-function 

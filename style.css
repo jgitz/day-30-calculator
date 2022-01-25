@@ -14,7 +14,7 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(28, 231, 221);
+    background-color: rgb(230, 231, 167);
     transition: 0.8s all;
   }
   h1 {
@@ -60,7 +60,7 @@
   }
   #clear, #delete {
     color: #fff;
-    background-color: rgb(255, 25, 25);
+    background-color: rgb(95, 232, 250);
   }
   button {
     border: none;
